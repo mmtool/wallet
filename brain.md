@@ -392,8 +392,9 @@ Dispute Received → Ops: Investigate → Genuine?
 
 ---
 ****That is Important****
-## XIII. USE CASE TEMPLATE (Standard BRD Format) *** 
 
+## XIII. USE CASE TEMPLATE (Standard BRD Format) *** 
+**Template** https://github.com/mmtool/wallet/blob/main/brd_cr_template.md
 Every new feature/CR should follow this use case structure:
 
 | Field | Content |
